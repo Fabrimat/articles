@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Minecraft Java - Snapshot 23w04a",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-23w04a",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/23w04a_header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2023-1-24",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.19.3",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-3",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1.19.3_header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2022-12-7",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.19.2",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-2",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1170x500.png",
+    "date": "2022-8-5",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.19.1",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-1",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1.19.1_header.jpg",
+    "date": "2022-7-27",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.19",
+    "url": "https://www.minecraft.net/en-us/article/the-wild-update-coming",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Xbox_Minecraft_WildUpdate_Main_.Net_1170x500.jpg",
+    "date": "2022-6-7",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.18.2",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-18-2",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-18-2-release-header.jpg",
+    "date": "2022-2-28",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.18.1",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-18-1",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-18-1-release-header.jpg",
+    "date": "2021-12-10",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.18",
+    "url": "https://www.minecraft.net/en-us/article/caves---cliffs--part-ii-out-today-java",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-18-release-header.jpg",
+    "date": "2021-11-30",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.17.1",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-17-1",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-1-release-header.jpg",
+    "date": "2021-7-6",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.17",
+    "url": "https://www.minecraft.net/en-us/article/caves---cliffs--part-i-out-today-java",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-release-header.jpg",
+    "date": "2021-6-8",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.16.5",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-5-header.jpg",
+    "date": "2021-1-13",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.16.4",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-4",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-header.jpg",
+    "date": "2020-10-29",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.16.3",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-3",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1_16_3_header.jpg",
+    "date": "2020-9-10",
+    "category": "java"
+  }
+]
